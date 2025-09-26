@@ -1,0 +1,5 @@
+{
+  "name": "Spotify Room Guessing Game",
+  "description": "Create a room, add players, and submit your favorite Spotify tracks. Then, play a random song clip and guess who in the room submitted it. A fun party game for music lovers.",
+  "requestFramePermissions": []
+}
